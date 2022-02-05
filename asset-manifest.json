@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/shyun-ecommerce/static/js/main.2bc84d72.js",
+    "index.html": "/shyun-ecommerce/index.html",
+    "main.2bc84d72.js.map": "/shyun-ecommerce/static/js/main.2bc84d72.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2bc84d72.js"
+  ]
+}
